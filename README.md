@@ -1,2 +1,4 @@
 # HR-People-Analytics
-I am grateful about the opportunity to learn about Power BI design from Sean Chandler.
+I am grateful for the opportunity to learn about Power BI design from Sean Chandler.
+
+![Image of summary page](
