@@ -1,5 +1,5 @@
 # HR-People-Analytics
-I am grateful for the opportunity to learn about Power BI design from Sean Chandler.
+HR People Analytics
 
 ![Image of summary page](https://github.com/HannahWorld/HR-People-Analytics/blob/main/cover%20page%20image.png)
 
