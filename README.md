@@ -1,5 +1,5 @@
 # HR-People-Analytics
-HR People Analytics
+HR People Analytics:
 
 ![Image of summary page](https://github.com/HannahWorld/HR-People-Analytics/blob/main/cover%20page%20image.png)
 
